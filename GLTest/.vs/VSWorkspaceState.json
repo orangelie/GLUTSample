@@ -2,9 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\GLTest",
-    "\\GLTest\\bin",
-    "\\GLTest\\lib"
+    "\\GLTest\\include",
+    "\\GLTest\\rc"
   ],
-  "SelectedNode": "\\GLTest\\GLTest.cpp",
+  "SelectedNode": "\\GLTest\\include\\GLTest.cpp",
   "PreviewInSolutionExplorer": false
 }
