@@ -1,5 +1,6 @@
 ﻿#pragma once
 #pragma comment(lib, "glut32")
+#pragma comment(lib, "glu32")
 
 #include <Windows.h>
 #include <windowsx.h>

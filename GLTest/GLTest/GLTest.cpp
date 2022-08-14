@@ -16,4 +16,6 @@ int main(int argc, char** argv)
     glShadeModel(GL_SMOOTH);
 
     glutMainLoop();
+
+    return 0;
 }

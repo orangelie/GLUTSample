@@ -1,5 +1,0 @@
-D:/Project/OpenGLProject/GLTest/out/build/x86-debug/CMakeFiles/edit_cache.dir
-D:/Project/OpenGLProject/GLTest/out/build/x86-debug/CMakeFiles/rebuild_cache.dir
-D:/Project/OpenGLProject/GLTest/out/build/x86-debug/GLTest/CMakeFiles/GLTest.dir
-D:/Project/OpenGLProject/GLTest/out/build/x86-debug/GLTest/CMakeFiles/edit_cache.dir
-D:/Project/OpenGLProject/GLTest/out/build/x86-debug/GLTest/CMakeFiles/rebuild_cache.dir
